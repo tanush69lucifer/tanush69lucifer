@@ -34,8 +34,7 @@ tanush = {
     "location"    : "India 🇮🇳",
     "building"    : "Saavi — IoT Health Monitoring System [Patent Pending 🔬]",
     "company"     : "Genzis — Inspiring the Next Generation of Builders",
-    "team"        : ["Abhishek Gupta", "Darshit"],
-    "mentor"      : "Anushka Shukla (AI/ML)",
+    "team"        : ["Arush Saxena", "Darshit","Vikas Bhardwaj"],
     "philosophy"  : "Ship fast. Build real. Inspire others.",
 }
 ```
@@ -172,10 +171,9 @@ Stack: React.js · Node.js · Python · OpenCV · SQL · IoT Sensors · REST API
 
 | Person | Role |
 |:---|:---|
-| **Darshit Bansal** | Co-founder & Partner — Genzis |
+| **Darshit Bansal** |  Partner — Genzis |
 | **Aarush Saxena** | Co-founder & Partner — Genzis |
 | **Vikas Bhardwaj** | Partner — Genzis |
-| **Anushka Shukla** | Mentor — AI/ML Projects |
 
 ---
 
