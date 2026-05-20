@@ -33,7 +33,9 @@ tanush = {
     "education"   : "B.Tech (Hons.) Computer Science — GLA University (2028)",
     "location"    : "India 🇮🇳",
     "building"    : "Saavi — IoT Health Monitoring System [Patent Pending 🔬]",
-    "company"     : "Genzis — Generations Ahead",
+    "company"     : "Genzis — Inspiring the Next Generation of Builders",
+    "team"        : ["Abhishek Gupta", "Darshit"],
+    "mentor"      : "Anushka Shukla (AI/ML)",
     "philosophy"  : "Ship fast. Build real. Inspire others.",
 }
 ```
@@ -89,6 +91,8 @@ Stack: React.js · Node.js · Python · OpenCV · SQL · IoT Sensors · REST API
 ## 🏢 Genzis — My Company
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/tanush69lucifer/tanush69lucifer/main/genzis_logo.png" width="180" alt="Genzis Logo"/>
 
 > *"Inspiring the next generation of creators, builders, and innovators."*
 
@@ -168,8 +172,11 @@ Stack: React.js · Node.js · Python · OpenCV · SQL · IoT Sensors · REST API
 
 | Person | Role |
 |:---|:---|
-| **Abhishek Gupta** | Core Team — Genzis & Saavi |
-| **Darshit** | Core Team — Genzis & Saavi |
+| **Darshit Bansal** | Co-founder & Partner — Genzis |
+| **Aarush Saxena** | Co-founder & Partner — Genzis |
+| **Vikas Bhardwaj** | Partner — Genzis |
+| **Anushka Shukla** | Mentor — AI/ML Projects |
+
 ---
 
 ## 🌌 Vision & Goals
