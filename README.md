@@ -108,14 +108,7 @@ $ zix --help
 
 <img src="assets/h-telemetry.svg" width="100%" alt="07 — telemetry"/>
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanush69lucifer&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=07040f&title_color=FF3FA4&icon_color=FFC83D&text_color=f2edfc&ring_color=9D6BFF" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanush69lucifer&layout=compact&hide_border=true&bg_color=07040f&title_color=2EC8FF&text_color=f2edfc" alt="Top languages"/>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanush69lucifer&hide_border=true&bg_color=07040f&color=a79fc2&line=FF3FA4&point=FFC83D&area=true&area_color=9D6BFF" alt="Contribution activity"/>
-
-</div>
+<img src="assets/telemetry.svg" width="100%" alt="Live GitHub telemetry: contributions, streaks, commits, repos and language mix"/>
 
 <img src="assets/footer.svg" width="100%" alt="To be continued"/>
 
